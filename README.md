@@ -1,2 +1,2 @@
-# Ha-ker
-Ha-ker Resources
+# Bones Hacking Bible
+Collection of tools and tutorials for Web App Security and Hacking Connected Cars
